@@ -2,7 +2,7 @@
 
 # Meme Bot
 
-### A small Discord bot I wrote while learning Python.
+### A Discord bot I wrote while learning Python.
 
 **Type `$meme` in chat, get a meme back.**
 
