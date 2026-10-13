@@ -20,8 +20,6 @@
 
 Type `$meme` in any channel the bot can see and it posts a meme into the chat. That's the whole thing.
 
-I made it to figure out how Python talks to the internet, so it stays small on purpose. One file, 24 lines, nothing to set up past your bot token.
-
 ## Quick start
 
 ### What you need
