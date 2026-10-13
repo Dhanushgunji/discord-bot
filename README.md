@@ -10,7 +10,7 @@
 [![discord.py](https://img.shields.io/badge/discord.py-2.x-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordpy.readthedocs.io/)
 [![MIT license](https://img.shields.io/badge/license-MIT-f4c430?style=flat-square)](LICENSE)
 
-[Quick start](#quick-start) · [How it works](#how-it-works) · [FAQ](#faq) · [What's next](#whats-next)
+[Quick start](#quick-start) · [How it works](#how-it-works) · [FAQ](#faq)
 
 <code>python bot.py</code>
 
@@ -113,7 +113,7 @@ Yes. Find `message.content.startswith("$meme")` in `bot.py` and put whatever you
 <details>
 <summary><strong>Does it stay online when I close my laptop?</strong></summary>
 
-No. It runs on your machine, so it goes offline with your terminal. Keeping it up means hosting it somewhere, which is on the list below.
+No. It runs on your machine, so it goes offline with your terminal. Keeping it up means hosting it somewhere.
 
 </details>
 
@@ -123,15 +123,6 @@ No. It runs on your machine, so it goes offline with your terminal. Keeping it u
 Go for it. MIT licensed, short enough to read in a minute. Fork it and break it.
 
 </details>
-
-## What's next
-
-1. Read the token from a `.env` file instead of typing it into `bot.py`
-2. A `$help` command so people can see what the bot does
-3. Catch the request failing instead of letting the whole bot fall over
-4. More commands. Dice roll, coin flip, maybe server info
-5. Move to slash commands so `/meme` shows up in Discord's own menu
-6. Host it somewhere so it stays online
 
 ## License
 
